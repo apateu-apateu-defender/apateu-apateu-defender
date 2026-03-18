@@ -1,8 +1,6 @@
 ## About me
 ## Currently learning Java. I've had basic to intermediate experience with Python in the past. Oh, and i'm also working on writing cleaner code (PSA: DO NOT WRITE A 1000 LINE PROGRAM IN PYTHON LIKE I DID IN HIGH SCHOOL)
 ## My interests mainly lie in IT and Cybersecurity. Coding and networking are also interesting but for now my career path of choice is in Cybersec.
-##
-## Also, i use windows (not arch), by the way.
 
 <!--
 **apateu-apateu-defender/apateu-apateu-defender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
